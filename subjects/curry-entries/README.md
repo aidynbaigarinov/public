@@ -6,7 +6,7 @@ This exercise consists in creating curry functions to apply in the objects
 entries.
 You will have to create the following curry functions:
 
-- `defaultCurry` that will curry two objects in witch the second object must
+- `defaultCurry` that will curry two objects in which the second object must
 be the default object and returns a new object with the modifications applied
 by the first object
 - `mapCurry` that replicate the function `.map` 
